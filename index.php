@@ -1,4 +1,6 @@
-<head>
+
+<html>
+  <head>
 </head>
 <body>
   <h1>elo </h1>
@@ -8,3 +10,4 @@ echo $rcp;
 echo ="chron";
   ?>
 </body>
+</html>

@@ -1,3 +1,2 @@
-<body>
-Hello
-</body>
+<?php
+print_r($_GET["hub_challange"]);

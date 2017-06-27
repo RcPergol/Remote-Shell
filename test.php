@@ -1,13 +1,20 @@
+<!DOCTYPE html>
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>xd</title>
  </head>
- <body>
-<h1>elo </h1>
-  <?php
-$rcp =  file_get_contents("php://input");
-echo $rcp;
-echo ="chron";
-  ?>
- </body>
+<body>
+
+<?php
+$txt1 = "Learn PHP";
+$txt2 = "W3Schools.com";
+$x = 5;
+$y = 4;
+
+echo "<h2>" . $txt1 . "</h2>";
+echo "Study PHP at " . $txt2 . "<br>";
+echo $x + $y;
+?>
+
+</body>
 </html>

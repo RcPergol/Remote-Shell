@@ -1,3 +1,3 @@
 <?php
-echo file_get_contents("php://input");
-
+$rcp =  file_get_contents("php://input");
+echo $rcp;
